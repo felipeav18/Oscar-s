@@ -1,0 +1,41 @@
+header{
+    display: block;
+    text-align: center;
+}
+.logo{
+    display: flex;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(166, 172, 175 );
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img{
+    height: 50px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.texto{
+    margin-top: 12px;
+    
+}
+.wrapper{
+    margin-top: 0%;
+    margin: 50px ;
+    width: 70%;
+}
+#imagen{
+    max-width: 400px;
+    float: left;
+    margin-right: 15px;
+}
+#imagen2{
+    max-width: 300px;
+    float: right;
+    margin-left: 15px;
+}
+#imagen1{
+    max-width: 300px;
+    float: left;
+    margin-right: 15px;
+}
