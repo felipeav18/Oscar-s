@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family: Poppins;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(255, 255 255);
+    background: url();
+    background-size: cover;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    background: transparent;
+    background-image: url(/Oscar´s/imagenes/portada.png);
+    background-size: cover;   
+       
+}
+.cuadro{
+    
+    width: 100%;
+    margin: 10px 0 ;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(255, 255, 255);
+    background: transparent;
+    border-radius: 40px;
+    font-size: 16px;
+    padding: 20px 45px 20px 20px;
+}
+.boton{
+    width: 170px;
+    height: 50px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 40px;
+    color: rgb(5, 5, 5);
+
+}
+.form{
+    box-shadow: 0 0 30px 0 rgb(255, 255, 255);
+    padding: 30px 40px;
+    color: rgb(255, 254, 254);
+    background-color: rgb(255, 255, 255);
+    background: transparent;
+}
+.form ::placeholder{
+    color: rgb(255, 255, 255);
+
+}
+.contacto{
+    display: grid;
+    text-align: left;
+}
+.boton:hover{
+    background-color:rgb(255, 255, 255);
+}
